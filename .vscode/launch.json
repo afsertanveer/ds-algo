@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ds-algo/stl",
-      "program": "d:/ds-algo/stl/build/Debug/outDebug",
+      "cwd": "d:/ds-algo",
+      "program": "d:/ds-algo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
